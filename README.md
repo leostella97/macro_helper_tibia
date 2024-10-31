@@ -21,4 +21,4 @@ O press das teclas é em tempo aleatório, garantindo a "humanização", como se
 
 1. **Ajude o projeto!**
    ```bash
-   git clone [https://github.com/leostella97/macro_helper_tibia.git]
+   git clone https://github.com/leostella97/macro_helper_tibia.git
